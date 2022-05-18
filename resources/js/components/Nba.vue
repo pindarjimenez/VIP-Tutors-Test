@@ -34,7 +34,6 @@
                                         </button>
                                     </div>
                                     <div class="card-body">
-                                        <div><strong>Name:</strong> </div>
                                         <div><strong>Number:</strong> {{ roster.number }}</div>
                                         <div><strong>Position:</strong> {{ roster.pos }}</div>
                                         <div><strong>Weight:</strong> {{ roster.weight }}</div>
